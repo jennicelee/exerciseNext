@@ -1,0 +1,175 @@
+body {
+
+    max-width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+    color: whitesmoke;
+    font-size: 80pt;
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    margin-top: 0;
+    background-image: url(/img/sky.jpg);
+    background-attachment: fixed;
+}
+
+.header2 {
+    color: whitesmoke;
+    font-size: 30pt;
+    opacity: 0.7;
+    text-align: center;
+    background-image: url(/img/surf.jpg);
+    background-attachment: fixed;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+
+
+.header2 a {
+    color: white;
+    text-decoration: NONE;
+}
+
+.header2 a:hover {
+    color: black;
+}
+
+.header2 p {
+    color: white;
+}
+
+p {
+    color: black;
+    height: 50px;
+
+
+}
+
+
+.song {
+    border-radius: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 20pt;
+
+}
+
+.rightbar img {
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+
+.leftbar {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+    margin-left: 80px;
+    margin-right: 20px;
+    float: left;
+    border: 1px solid lightgray;
+    border-radius: 20pt;
+}
+
+.rightbar {
+    padding-right: 20px;
+    padding-bottom: 0px;
+    float: right;
+}
+
+.top {
+    min-height: 1100px;
+}
+
+.live {
+    color: whitesmoke;
+    font-size: 30pt;
+    text-align: center;
+    background-image: url(/img/coldplay.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+
+.othersong {
+    font-size: 10pt;
+    min-height: 300px;
+    padding-top: 30px;
+    padding-bottom: 120px;
+    padding-left: 150px;
+    background-color: powderblue;
+    text-align: center;
+
+}
+
+.livebutton {
+    background-color: #203556;
+    color: whitesmoke;
+    border: 0px;
+    width: 20%;
+    height: 50%;
+    border-radius: 10px;
+}
+
+.livebutton:hover {
+    background-color: powderblue;
+    color: #2b2b2b;
+    transition: .5s ease;
+}
+
+.song1 {
+    float: left;
+    padding: 40px;
+    border-radius: 10px;
+
+}
+
+.song1 img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+
+.song2 img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.song3 img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.song4 img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+
+.song5 img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.song6 img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.footerbelow {
+    margin: 0px;
+    font-size: 8pt;
+}
